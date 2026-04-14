@@ -16,7 +16,7 @@ It allows Developers to use Linux command-line tools, utilities, and application
 Browser → **NGINX** → Serve website source files (`index.html`, `css/`, `js/`, `images/`)
 
 ---
-🚀 My Process Of Deploy My Created shoesShowcasinn E- Commerce Site On AWS (AMAZON WEB SERVICES) (Ubuntu / EC2 / WSL)
+🚀 My Process Of Deploy My Created shoesShowcase E- Commerce Site On AWS (AMAZON WEB SERVICES) (Ubuntu / EC2 / WSL)
 
 ---
 1. Connect to My Created AWS Instance server :
